@@ -1,0 +1,16 @@
+1.
+print()// console output
+input() // console input
+
+input("my name is :") // console input with message
+
+2.
+def main():
+    print("what is your name")
+    myName = input()
+    print(myName)   
+
+run this program  with main() function
+
+
+
